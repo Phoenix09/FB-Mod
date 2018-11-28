@@ -10,9 +10,11 @@
 
 ## Run following commands on Terminal
 
-`ant resolve`
-`ant jar`
-`ant app`
+```
+ant resolve
+ant jar
+ant app
+```
 
 
 Output files in /dist (.dmg file)
@@ -29,9 +31,11 @@ Output files in /dist (.dmg file)
 
 ## Run following commands on CMD
 
-`ant resolve`
-`ant jar`
-`ant msi`
-`ant zip`
+```
+ant resolve
+ant jar
+ant msi
+ant zip
+```
 
 Output files in /dist 
